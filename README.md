@@ -43,7 +43,7 @@ It uses a trained **Machine Learning Regression model** along with a complete **
 
 ## 🎯 Usage
 
-1. Open the application here: **[Run the App]([YOUR_STREAMLIT_APP_LINK_HERE](https://homepredictor-r9n2ywjqvo7grmvh2ky34w.streamlit.app/))**
+1. Open the application here: **[Run the App](https://homepredictor-r9n2ywjqvo7grmvh2ky34w.streamlit.app/)**
 2. Enter the required house details.
 3. Click **Predict House Price**.
 4. View the estimated house price instantly.
