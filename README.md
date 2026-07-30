@@ -72,11 +72,8 @@ The predicted prices are generated using a machine learning model trained on the
 
 ## 📸 Screenshot
 
-
-```
 <img width="1448" height="802" alt="image" src="https://github.com/user-attachments/assets/23518afb-81ad-4bb5-8a20-03aff7435015" />
 
-```
 ---
 
 
