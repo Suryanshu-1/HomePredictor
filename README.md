@@ -76,7 +76,7 @@ The predicted prices are generated using a machine learning model trained on the
 ```text
 <img width="1448" height="802" alt="image" src="https://github.com/user-attachments/assets/bcc5567d-b57a-4fa6-9fbd-834673d9cab0" />
 
-
+```
 ---
 
 
